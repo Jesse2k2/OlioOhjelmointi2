@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{AFD0D3F7-4709-420F-85B9-7BC3E346406B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{4CA049CB-99C3-4908-93C2-975F702A5AD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{4CA049CB-99C3-4908-93C2-975F702A5AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmaOlio", "OmaOlio\OmaOlio.csproj", "{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4CA049CB-99C3-4908-93C2-975F702A5AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA049CB-99C3-4908-93C2-975F702A5AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA049CB-99C3-4908-93C2-975F702A5AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
