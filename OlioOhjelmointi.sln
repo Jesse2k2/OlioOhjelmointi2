@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmaOlio", "OmaOlio\OmaOlio.csproj", "{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiuas", "Kiuas\Kiuas.csproj", "{AA2A684D-EEB8-472E-9FE5-5B424DD11F86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC73BDA4-60F2-493C-A3D5-A6A7D9284936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2A684D-EEB8-472E-9FE5-5B424DD11F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2A684D-EEB8-472E-9FE5-5B424DD11F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2A684D-EEB8-472E-9FE5-5B424DD11F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2A684D-EEB8-472E-9FE5-5B424DD11F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
